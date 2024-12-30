@@ -9,7 +9,7 @@ Market Sphere is a full-fledged e-commerce platform built using Flutter for the 
 
 1. **[Market Sphere - Consumer App](https://github.com/SanjayKParida/market-sphere)**
 2. **[Market Sphere - Vendor App](https://github.com/SanjayKParida/market-sphere-vendor)**
-3. **[Market Sphere - Web Admin Panel](https://github.com/SanjayKParida/market=sphere-web-admin-panel)**
+3. **[Market Sphere - Web Admin Panel](https://github.com/SanjayKParida/market-sphere-web-admin-panel)**
 4. **[Market Sphere - Backend](https://github.com/SanjayKParida/market=sphere-backend)**
 
 ## Features
